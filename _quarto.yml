@@ -1,12 +1,15 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "jyu359.github.io"
+  title: "Jeffery Yu"
   navbar:
     left:
       - href: index.qmd
         text: Home
+      - href: projects.qmd
+        text: Projects
       - about.qmd
 
 format:

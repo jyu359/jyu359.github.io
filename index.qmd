@@ -1,3 +1,12 @@
 ---
-title: "jyu359.github.io"
+title: "Jeffery Yu"
+image: media/headshot.jpg
+toc: false
+about: 
+  template: jolla
+  image-shape: rectangle
+  image-width: 17em
+  links: 
+  - text: LinkedIn
+    href: https://www.linkedin.com/in/jeffery-yu/
 ---
